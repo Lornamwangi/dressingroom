@@ -8,3 +8,4 @@ en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_
 enum34
 fastjsonschema
 filelock
+pillow
